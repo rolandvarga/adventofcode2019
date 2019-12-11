@@ -41,7 +41,7 @@ func PartTwo() int {
 	return sum
 }
 
-func main() {
+func DayOne() {
 	sum1 := PartOne()
 	fmt.Printf("Total Fuel requirement #1: '%d'\n", sum1)
 
